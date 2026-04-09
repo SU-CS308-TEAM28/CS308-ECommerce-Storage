@@ -1,0 +1,15 @@
+- id
+- name
+- surname
+- email
+- homeAddress (Nullable)
+- pwdHash
+- birthDate
+- userType (user, salesMng, productMng, admin)
+- userData (Nullable if not user)
+	- wishlist[]
+		- productId
+		- dateAdded
+	- shoppingCart[]
+		- productId
+		- quantity

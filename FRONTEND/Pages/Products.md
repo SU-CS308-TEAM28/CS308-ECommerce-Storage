@@ -1,0 +1,1 @@
+**Page Route:** ${BASE_URL}/browse | ${BASE_URL}/category | ${BASE_URL}/search

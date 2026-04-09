@@ -1,0 +1,9 @@
+- id
+- productId
+- commenter
+    - id
+    - publicName
+- creationDate
+- rate
+- comment (Nullable)
+- isApproved

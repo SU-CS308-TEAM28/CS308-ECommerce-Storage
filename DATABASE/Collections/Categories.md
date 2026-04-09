@@ -1,0 +1,6 @@
+- id
+- abbrv
+- label
+- subcategories[] (Nullable)
+    - abbrv
+    - label

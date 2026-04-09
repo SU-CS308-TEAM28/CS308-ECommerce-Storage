@@ -1,0 +1,15 @@
+- id
+- productId
+- userId
+- orderDate
+- status
+- quantity
+- totalPrice
+- deliveryAddress
+- isCompleted
+- isCancelled
+- returnRequest (Nullable)
+    - reason
+    - requestDate
+    - isApproved
+    - isCompleted

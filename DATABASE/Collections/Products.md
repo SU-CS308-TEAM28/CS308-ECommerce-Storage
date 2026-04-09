@@ -1,0 +1,20 @@
+- id
+- name
+- description
+- price
+- activeDiscount
+- model
+- serialNumber
+- warrantyStatus
+- distributorInformation
+- thumbnailUrl
+- imageUrls[]
+- category
+- subcategories
+- stock
+- ratings
+    - count
+    - value
+- extraProps[]
+    - label
+    - value
