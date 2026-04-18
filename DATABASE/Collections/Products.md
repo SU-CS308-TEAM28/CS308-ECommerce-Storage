@@ -10,7 +10,7 @@
 - thumbnailUrl
 - imageUrls[]
 - category
-- subcategories
+- subcategories[]
 - stock
 - ratings
     - count

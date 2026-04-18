@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57799edb4114611b",
+        "id": "54b7b9407d1d7b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "3eda3c7771f51f84",
+            "id": "d446a7f6d759c515",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "FRONTEND/Pages/Main.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main"
             }
           }
         ]
@@ -178,36 +182,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "3eda3c7771f51f84",
+  "active": "d446a7f6d759c515",
   "lastOpenFiles": [
-    "DATABASE/Collections/Orders.md",
-    "DATABASE/Collections/Users.md",
+    "FRONTEND/Pages.md",
     "FRONTEND/Pages/Main.md",
+    "FRONTEND/Pages/Login.md",
+    "FRONTEND/Pages/ShoppingCart.md",
+    "FRONTEND/Pages/Register.md",
+    "FRONTEND/Pages/Profile.md",
+    "FRONTEND/Pages/Products.md",
+    "FRONTEND/Pages/ProductDetail.md",
+    "FRONTEND/Pages/PossibleContact.md",
+    "DATABASE/Collections/Products.md",
+    "DATABASE/Collections/Users.md",
+    "BACKEND/Endpoints/Product.md",
+    "BACKEND/Endpoints/Auth.md",
+    "PROJECT.md",
     "BACKEND/Endpoints/User.md",
     "BACKEND/Endpoints.md",
+    "DATABASE/Collections.md",
+    "DATABASE/DATABASE.md",
+    "DATABASE/Collections/Orders.md",
     "BACKEND/BACKEND.md",
-    "PROJECT.md",
-    "BACKEND/Endpoints/Product.md",
-    "FRONTEND/Pages.md",
     "FRONTEND/FRONTEND.md",
-    "FRONTEND/Pages/ProductDetail.md",
-    "FRONTEND/Pages/Products.md",
-    "FRONTEND/Pages/PossibleContact.md",
     "README.md",
-    "DATABASE/Collections/Products.md",
     "DATABASE/Collections/Comments.md",
     "DATABASE/Collections/Categories.md",
-    "BACKEND/Endpoints/Auth.md",
     "BACKEND/Endpoints/Order.md",
     "BACKEND/Endpoints",
-    "DATABASE/DATABASE.md",
-    "obsidian.md",
-    "DATABASE/Collections.md",
-    "FRONTEND/Pages/Login.md",
-    "FRONTEND/Pages/Profile.md",
     "DATABASE/Collections",
-    "FRONTEND/Pages/Wishlist.md",
-    "FRONTEND/Pages/ShoppingCart.md",
     "Pages",
     "FRONTEND/Pages",
     "BACKEND",
